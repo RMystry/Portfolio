@@ -8,7 +8,7 @@ While moving through the 5 levels that are implemented and dodgeing the Gastlys 
 
 ## The Game in Action!:
 
-[a link](https://www.youtube.com/watch?v=1Qecemx5vz8&feature=youtu.be)
+[The Video!](https://www.youtube.com/watch?v=1Qecemx5vz8&feature=youtu.be)
 
 ## Gastly's Behavior
 The behavior tree is as described below:
