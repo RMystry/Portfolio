@@ -8,5 +8,12 @@ While moving through the 5 levels that are implemented and dodgeing the Gastlys 
 
 ## Gastly's Behavior
 The behavior tree is as described below:
+The basic idea is that teh gastly will patrol a specific area and move towards teh player if it is seen in its sightline.
+
 <img src=Gastly_Behavior.png/>
 
+## Magnemite Behavior
+The behavior tree of the Magnemite is as described below:
+The magnemite will just travel in a circle until it collides with the player then it will freeze the player and will run away.
+
+<img src= Magnemite.png/>
