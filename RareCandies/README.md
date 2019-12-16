@@ -7,5 +7,6 @@ The player plays as a Proygon and tries to collect all the candies on the levels
 While moving through the 5 levels that are implemented and dodgeing the Gastlys and the Magnemites.
 
 ## Gastly's Behavior
-
+The behavior tree is as described below:
+<img src=Gastly_Behavior.png/>
 
